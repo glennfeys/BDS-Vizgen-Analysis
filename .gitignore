@@ -1,0 +1,16 @@
+dask-worker-space/
+*.ipynb_checkpoints
+__pycache__
+*.egg-info
+*.vscode
+.coverage
+*.pdf
+*.png
+tmp/
+*.log
+.mypy_cache/
+.pytest_cache/
+.commit
+docs/build
+*.xml
+*.coverage*
